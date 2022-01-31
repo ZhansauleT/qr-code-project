@@ -40,7 +40,7 @@ body {
 }
 
 .card-title {
-  font-size: 25px;
+  font-size: 22px;
   font-weight: 700;
   color: hsl(218, 44%, 22%);
   margin-bottom: 15px;
@@ -49,4 +49,14 @@ body {
 .card-description {
   color: hsl(220, 15%, 55%);
   font-size: 15px;
+  padding: 0 1rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
